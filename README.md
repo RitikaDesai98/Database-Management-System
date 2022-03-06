@@ -1,2 +1,2 @@
 # INFSCI2710
-University of Pittsburgh - Database Management System
+University of Pittsburgh - INFSCI 2710
